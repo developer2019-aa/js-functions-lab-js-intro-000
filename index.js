@@ -1,16 +1,16 @@
 // write your code below!
-let happyHolidays = () => {
+function happyHolidays(){
   return 'Happy holidays!'
 }
 
-let happyHolidaysTo = (name) => {
+function happyHolidaysTo(name){
   return `Happy holidays, ${name}!`
 }
 
-let happyCustomHolidayTo = (holiday, name) => {
+function happyCustomHolidayTo(holiday, name){
   return `Happy ${holiday}, ${name}!`
 }
 
-let holidayCountdown = (holiday, days) => {
+function holidayCountdown(holiday, days){
   return `It's ${days} days until ${holiday}!`
 }

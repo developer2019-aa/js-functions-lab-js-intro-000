@@ -1,6 +1,6 @@
 // write your code below!
 const happyHolidays = () => {
-  return 'holidays!'
+  return 'Happy holidays!'
 }
 
 const happyHolidaysTo = (name) => {
